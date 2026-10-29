@@ -140,3 +140,8 @@ Embreagem e seleção interna
 Escape e emissões
 - Fichas conceituais de coletor, junta, catalisador, silenciador, protetor térmico, suportes, posição funcional da sonda O₂ e percurso dos gases.
 - Presença, ordem, posição e especificações variam por moto, ano e mercado. Não remover dispositivos de emissões; siga manual e regras vigentes.
+
+
+Detalhes de suspensão
+- Fichas conceituais de garfo telescópico, mola, retentor e buchas guia, articulação traseira, rolamento do pivô da balança e conjunto interno do garfo.
+- Sem valores de fluido, nível, pré-carga, folga, torque ou procedimentos universais. Componentes podem armazenar energia; consulte o manual aplicável.
