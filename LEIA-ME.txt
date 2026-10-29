@@ -200,3 +200,8 @@ Detalhes de comandos e instrumentação
 Detalhes de vedação do motor
 - Fichas conceituais de junta da base do cilindro, juntas de tampa, O-ring, retentor de eixo, pinos-guia e arruela de vedação do bujão.
 - Material, compatibilidade, aplicação de selante e procedimento dependem do motor. Não use dimensões ou métodos universais.
+
+
+Detalhes da seleção de marchas
+- Fichas conceituais de eixo, lingueta/catraca, mola de retorno, estrela indexadora, detente, articulação externa e princípio sequencial.
+- Sem padrão de marchas, ordem de montagem, folgas ou regulagens universais. O mecanismo e o procedimento dependem do câmbio específico.
