@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v50';
+const CACHE_NAME = 'motopro-shell-v51';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=50',
-  './app.js?v=50',
+  './app-data.js?v=51',
+  './app.js?v=51',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -196,6 +196,13 @@ const ASSETS = [
   './amortecedores-torque-cubo.png',
   './espacadores-eixo-roda.png',
   './relacao-transmissao-final.png',
+  './aro-roda-conceito.png',
+  './raios-roda-conceito.png',
+  './valvula-pneu-conceito.png',
+  './camara-ar-conceito.png',
+  './rolamento-roda-conceito.png',
+  './assentamento-pneu-aro.png',
+  './pressao-pneu-manometro.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',

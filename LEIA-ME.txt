@@ -185,3 +185,8 @@ Detalhes de arrefecimento
 Detalhes da transmissão final
 - Fichas conceituais sobre elos e elo de união, guia deslizante, suporte da coroa, amortecedores de torque, espaçadores e relação pinhão/coroa.
 - Sem medidas, folgas ou torques universais. Corrente em movimento e montagem incorreta oferecem risco; use o manual específico.
+
+
+Detalhes de rodas e pneus
+- Fichas conceituais sobre aro, raios, válvula, câmara de ar, rolamento, assentamento do pneu e conferência de pressão.
+- Sem valores universais de pressão, tensão de raios ou montagem. Componentes devem ser compatíveis e danos estruturais exigem avaliação adequada.
