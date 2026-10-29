@@ -110,3 +110,8 @@ Transmissão e marchas
 Arrefecimento
 - Fichas conceituais de radiador, bomba de líquido, válvula termostática, eletroventilador, mangueiras, reservatório e circulação do líquido.
 - Sem temperaturas, pressões ou procedimentos genéricos. Nunca abra circuito quente ou pressurizado; confirme fluido e procedimento no manual da aplicação.
+
+
+Componentes internos do motor
+- Fichas conceituais de cárter, pino do pistão, rolamentos, retentor de válvula, junta do cabeçote, eixo balanceiro e galerias de óleo.
+- Sem dimensões, folgas, torque ou sequência de montagem. Abertura do motor exige limpeza, ferramentas e documentação técnica aplicável.
