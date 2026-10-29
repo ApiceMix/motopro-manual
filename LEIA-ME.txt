@@ -105,3 +105,8 @@ Alimentação e comandos
 Transmissão e marchas
 - Fichas conceituais de corrente, pinhão, coroa, câmbio, seletor, transmissão por correia e transmissão por eixo.
 - Os tipos de transmissão final são arquiteturas alternativas; a motocicleta pode usar apenas uma delas. Não há medidas, folgas, torques ou ajustes genéricos.
+
+
+Arrefecimento
+- Fichas conceituais de radiador, bomba de líquido, válvula termostática, eletroventilador, mangueiras, reservatório e circulação do líquido.
+- Sem temperaturas, pressões ou procedimentos genéricos. Nunca abra circuito quente ou pressurizado; confirme fluido e procedimento no manual da aplicação.
