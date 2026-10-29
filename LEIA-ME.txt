@@ -120,3 +120,8 @@ Componentes internos do motor
 Comandos e instrumentação
 - Fichas conceituais de chave de ignição, comandos do guidão, acelerador, comando de embreagem, painel, sensor de velocidade e buzina.
 - Sem pinagens, folgas ou ajustes genéricos; identifique a arquitetura e consulte o manual da motocicleta.
+
+
+Iluminação e sinalização
+- Fichas conceituais de farol, lanterna/luz de freio, indicadores de direção, relé/controlador de pisca, interruptor de freio, luz da placa e refletor.
+- Sem pinagens ou regras universais de ligação. Confira aplicação e legislação vigente; mantenha todas as luzes e refletores em funcionamento.
