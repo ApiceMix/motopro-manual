@@ -45,3 +45,21 @@ Biblioteca de mídia educativa (estrutura demonstrativa)
 - O ciclo de quatro tempos é um esquema visual, não uma animação técnica em escala. O Nando tem animação sutil, respeitando a preferência do aparelho por movimento reduzido.
 
 Protótipo de galeria para revisão: `piston-cylinder-conceitual.webp` é a ilustração demonstrativa usada na ficha Pistão e cilindro; fica junto aos arquivos do app para cache offline.
+
+
+GIF animado demonstrativo
+- `motor-quatro-tempos-esquema.gif` é uma animação feita para o MotoPro, com 48 quadros, para ilustrar admissão, compressão, expansão e escape. Está incorporada ao app e ao cache offline. É conceitual e não substitui diagrama de serviço nem representa uma aplicação específica.
+- GIF selecionados na Biblioteca de mídia podem ser exibidos diretamente como animação. A prévia tenta mostrar o arquivo no navegador; se falhar, tente converter para GIF/JPG/PNG compatível ou envie o arquivo diretamente no chat.
+
+
+Enciclopédia mecânica de bolso
+- Galeria organizada por conjunto, com pesquisa por nome/função e fichas ampliáveis.
+- Diagramas conceituais estão em `components/*.svg`; dados explicativos e relação de peças ficam em `app-data.js` dentro de `componentGallery`.
+- Para acrescentar um componente, crie SVG original com texto alternativo, registre função/localização/peças relacionadas, categoria da Biblioteca Técnica, conjunto e ressalva conceitual. Não adicione medidas, torque ou compatibilidade sem fonte aplicável. Inclua o arquivo no service worker para acesso offline e incremente CACHE_NAME.
+- A ficha deve apontar a categoria técnica correspondente e indicar que manual específico define montagem e valores.
+
+Expansão da enciclopédia mecânica
+- A seção inicial agora lista o conjunto pistão/cilindro e dez componentes: cabeçote, cilindro, pistão, anéis, válvulas, comando, virabrequim, biela, embreagem e bomba de óleo.
+- Use “Filtrar por conjunto” e “Buscar componente”. Cada ficha abre função, localização aproximada, partes relacionadas, categoria técnica e lembrete Nando.
+- Diagramas SVG autorais estão em components/ e são conceituais; não estão em escala e não trazem especificações de serviço.
+- Para adicionar um componente: crie SVG com descrição acessível, registre a ficha em componentGallery no app-data.js, adicione o caminho ao service-worker.js, incremente CACHE_NAME e valide a navegação móvel e desktop.
