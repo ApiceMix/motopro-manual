@@ -190,3 +190,8 @@ Detalhes da transmissão final
 Detalhes de rodas e pneus
 - Fichas conceituais sobre aro, raios, válvula, câmara de ar, rolamento, assentamento do pneu e conferência de pressão.
 - Sem valores universais de pressão, tensão de raios ou montagem. Componentes devem ser compatíveis e danos estruturais exigem avaliação adequada.
+
+
+Detalhes de comandos e instrumentação
+- Fichas conceituais sobre botão de partida, corta-corrente, cabo de embreagem, sensor de nível do tanque, indicador de marcha, trava de direção e luzes de painel.
+- Sem pinagens ou testes elétricos universais. Tanque/vapores de combustível e circuitos de comando exigem precauções e dados do manual da aplicação.
