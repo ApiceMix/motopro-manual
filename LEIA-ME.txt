@@ -63,3 +63,10 @@ Expansão da enciclopédia mecânica
 - Use “Filtrar por conjunto” e “Buscar componente”. Cada ficha abre função, localização aproximada, partes relacionadas, categoria técnica e lembrete Nando.
 - Diagramas SVG autorais estão em components/ e são conceituais; não estão em escala e não trazem especificações de serviço.
 - Para adicionar um componente: crie SVG com descrição acessível, registre a ficha em componentGallery no app-data.js, adicione o caminho ao service-worker.js, incremente CACHE_NAME e valide a navegação móvel e desktop.
+- Os cartões da enciclopédia usam imagens PNG leves com caminhos relativos à pasta do app; as versões SVG editáveis permanecem ao lado do código. PNGs também estão no cache offline.
+
+
+Continuação da enciclopédia mecânica
+- Sete fichas novas: corrente e tensor de comando, mola de válvula, balancim, filtro de óleo, pescador/tela de sucção e cárter/reservatório.
+- PNGs associados são esquemáticos; não indicam arquitetura, dimensão, sincronismo ou procedimento universal.
+- Para abrir e editar as imagens, consulte os PNGs do projeto; service-worker.js inclui as imagens para acesso offline.
