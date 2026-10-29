@@ -1,0 +1,47 @@
+MOTOPRO — PACOTE PWA INICIAL
+
+O que há aqui
+- index.html: biblioteca e interface MotoPro.
+- manifest.webmanifest: nome, ícones e configuração instalável.
+- service-worker.js: cache das telas/arquivos locais para abrir offline após a primeira visita online.
+- icon-192.png e icon-512.png: ícones do aplicativo.
+
+Instalar e usar offline
+1. Publique TODOS os arquivos desta pasta numa hospedagem estática com HTTPS (por exemplo, um site próprio no GitHub Pages ou Netlify).
+2. Abra a URL HTTPS do index.html no navegador do telefone/computador enquanto estiver online.
+3. Aguarde aparecer “Acesso offline preparado”. Em navegadores compatíveis, use o botão “Instalar” ou o menu do navegador > “Instalar app” / “Adicionar à tela inicial”.
+4. Depois da primeira carga e do cache do service worker, o conteúdo incluído no app pode abrir sem internet.
+
+Notas importantes
+- O HTML aberto diretamente como arquivo no dispositivo continua funcionando como protótipo, mas não instala como PWA e não registra service worker.
+- A instalação é compatível com hospedagem HTTPS e depende do navegador e do sistema operacional.
+- Contribuições, favoritos, histórico e fichas de atendimento continuam salvos localmente no navegador; este pacote NÃO cria sincronização, contas, servidor ou comunidade compartilhada.
+- A IA não consulta fontes externas nesta versão.
+- O service worker guarda os arquivos do app, não os envia para terceiros. Ao publicar atualizações futuras, altere CACHE_NAME em service-worker.js para atualizar a versão em cache.
+- Mantenha os avisos de risco e a validação das fontes técnicas. O app não substitui manual de serviço, treinamento ou avaliação profissional.
+
+Backup local
+- Na seção “Backup local”, use “Baixar backup” para exportar JSON ou “Restaurar backup” para importar. A restauração substitui os dados locais equivalentes e pede confirmação. Faça um backup atual antes se quiser guardar os dois conjuntos.
+
+Garagem local
+- Use “Garagem” para salvar até 25 motos recorrentes sem dados de cliente. “Usar esta moto” ajusta o filtro da biblioteca e preenche marca/modelo/ano/versão na ficha de atendimento. Aplicação não mapeada mostra apenas fichas gerais.
+- A garagem e a moto ativa entram no backup JSON.
+
+Organização do projeto
+- index.html: estrutura da página e carregamento dos assets.
+- styles.css: temas e apresentação responsiva.
+- app-data.js: categorias, fichas e roteiros de triagem; revisão técnica dos dados deve começar aqui.
+- app.js: filtros, navegação, armazenamento local, backup e formulários.
+- service-worker.js: cache offline versionado; ao publicar alteração nos arquivos locais, incrementar CACHE_NAME.
+- manifest.webmanifest e ícones: identidade instalável do PWA.
+
+Biblioteca de mídia educativa (estrutura demonstrativa)
+- A galeria inicial mostra uma ficha demonstrativa do conjunto pistão/cilindro. A imagem fornecida no app é conceitual, não está em escala, não indica modelo nem substitui desenho do manual.
+- Os dados de componentes/ciclo/sintomas ficam em app-data.js. Para adicionar outra ficha à galeria, acrescente um objeto a componentGallery com id, name, category, function, location, related, image, imageAlt, illustrationStatus e tip; coloque a imagem na raiz do pacote (ou ajuste o caminho relativo e o cache offline). e mantenha o aviso de procedência/validação. A navegação da ficha leva à categoria correspondente da Biblioteca Técnica.
+- A Biblioteca de mídia permite cadastrar imagem/vídeo com título, descrição, categoria, motocicleta aplicável, fonte e status. Arquivos JPG/JPEG, PNG, WebP, GIF, MP4, WebM e OGG são aceitos dentro dos limites mostrados no formulário.
+- Selecionar arquivo faz upload direto do aparelho para o navegador local (IndexedDB); não há envio a servidor. Um URL externo também pode ser registrado, mas o conteúdo fica hospedado por terceiros e precisa de internet. Para vídeo externo, use URL direta de mídia compatível com o navegador.
+- Mídia local é guardada neste aparelho/navegador, sujeita ao espaço e à limpeza de dados do navegador. A mídia não é sincronizada nem incluída no backup JSON atual; guarde também os arquivos originais fora do navegador.
+- Status “validado” é apenas uma indicação preenchida pelo usuário; registre fonte e confirme aplicação, edição/página e condição do teste. Ilustração conceitual não é referência de serviço.
+- O ciclo de quatro tempos é um esquema visual, não uma animação técnica em escala. O Nando tem animação sutil, respeitando a preferência do aparelho por movimento reduzido.
+
+Protótipo de galeria para revisão: `piston-cylinder-conceitual.webp` é a ilustração demonstrativa usada na ficha Pistão e cilindro; fica junto aos arquivos do app para cache offline.

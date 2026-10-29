@@ -6,7 +6,7 @@ const ASSETS = [
   './app-data.js',
   './app.js',
   './media-db.js',
-  './media/piston-cylinder-conceitual.webp',
+  './piston-cylinder-conceitual.webp',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png'
