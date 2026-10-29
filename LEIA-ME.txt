@@ -210,3 +210,8 @@ Detalhes da seleção de marchas
 Detalhes da direção
 - Fichas conceituais sobre coluna/eixo, pistas e vedações dos rolamentos, batentes, suportes do guidão, roteamento de cabos e alinhamento.
 - Sem torques, ângulos ou ajustes universais. Direção é componente de segurança; danos ou montagem exigem manual e avaliação apropriados.
+
+
+Detalhes de proteção elétrica
+- Fichas conceituais sobre relé principal, porta-fusível, crimpagem, conectores e vedação, trajeto e emenda de distribuição do chicote.
+- Correntes, terminais e métodos dependem do diagrama e do modelo. Nunca aumente a capacidade do fusível nem faça pontes.
