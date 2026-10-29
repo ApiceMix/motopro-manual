@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v48';
+const CACHE_NAME = 'motopro-shell-v49';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=48',
-  './app.js?v=48',
+  './app-data.js?v=49',
+  './app.js?v=49',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -182,6 +182,13 @@ const ASSETS = [
   './circuito-carga-bateria.png',
   './terminais-bateria.png',
   './retorno-massa-eletrica.png',
+  './tampa-pressao-arrefecimento.png',
+  './rotor-bomba-arrefecimento.png',
+  './selo-bomba-arrefecimento.png',
+  './passagem-liquido-motor.png',
+  './abraçadeiras-arrefecimento.png',
+  './dreno-arrefecimento-conceito.png',
+  './retorno-reservatorio-arrefecimento.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',

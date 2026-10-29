@@ -175,3 +175,8 @@ Distribuição e válvulas
 Detalhes de carga e partida
 - Fichas conceituais de induzido, escovas, roda livre, engrenagens de partida, percurso de carga, terminais da bateria e retorno/aterramento.
 - Sem pinagens ou valores elétricos universais. Circuitos de partida conduzem corrente elevada; evite pontes improvisadas e consulte o manual.
+
+
+Detalhes de arrefecimento
+- Fichas conceituais sobre tampa/pressão, impulsor e vedação da bomba, passagens internas, abraçadeiras, drenagem e linhas do reservatório.
+- Não abrir o circuito quente ou pressurizado. Fluido, pressão, enchimento e sangria dependem do manual específico da motocicleta.
