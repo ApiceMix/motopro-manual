@@ -100,3 +100,8 @@ Injeção e sensores
 Alimentação e comandos
 - Fichas conceituais de bomba e filtro de combustível, regulador de pressão, controle de marcha lenta, sensor de inclinação, neutro e descanso lateral.
 - Conteúdo introdutório, sem valores ou pinagens. Combustível pressurizado: risco de incêndio e lesão; não abrir ou testar sem procedimento e equipamento adequados. Não contornar intertravamentos de segurança.
+
+
+Transmissão e marchas
+- Fichas conceituais de corrente, pinhão, coroa, câmbio, seletor, transmissão por correia e transmissão por eixo.
+- Os tipos de transmissão final são arquiteturas alternativas; a motocicleta pode usar apenas uma delas. Não há medidas, folgas, torques ou ajustes genéricos.
