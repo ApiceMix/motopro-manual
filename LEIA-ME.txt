@@ -85,3 +85,8 @@ Chassi e rodagem
 Freios — seção de referência e segurança crítica
 - Entraram fichas conceituais de disco, pinça, pastilhas, cilindro mestre/reservatório, mangueira/linha, tambor e sapatas.
 - Não há especificações de desgaste, torque, fluido, compatibilidade ou passos de reparo. Cada serviço requer manual da aplicação e profissional qualificado.
+
+
+Elétrica e partida
+- Fichas conceituais de bateria, estator/alternador, regulador-retificador, motor e relé de partida, fusível e chicote.
+- Sem valores elétricos, pinagens ou procedimentos de teste genéricos; confirme diagrama, condição de teste e especificação no manual da aplicação.
