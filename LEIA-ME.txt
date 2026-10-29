@@ -165,3 +165,8 @@ Admissão de ar
 Carburador e alimentação
 - Fichas conceituais de carburador, boia, agulha da boia, giclês/jatos, afogador/enriquecedor, circuitos de ar e combustível e diafragma.
 - Sem calibração, nível de boia ou ajustes universais. Combustível é inflamável; evite fontes de ignição e siga o manual da aplicação.
+
+
+Distribuição e válvulas
+- Fichas conceituais de guias da corrente, sede de válvula, travas/collets, prato da mola, descompressor (quando equipado), conceito de folga e relação de sincronismo.
+- Não usar ilustrações para sincronizar ou definir folgas. Molas armazenam energia; consulte manual, ferramenta e método específicos.
