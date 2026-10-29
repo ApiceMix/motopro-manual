@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v28';
+const CACHE_NAME = 'motopro-shell-v29';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=27',
-  './app.js?v=27',
+  './app-data.js?v=29',
+  './app.js?v=29',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
