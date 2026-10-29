@@ -155,3 +155,8 @@ Chassi e apoios
 Detalhes de lubrificação
 - Fichas conceituais de radiador de óleo (quando equipado), interruptor/sensor de pressão, bujão de drenagem, respiro do cárter, ponto de nível, tampa de abastecimento e percurso geral do circuito.
 - Sem pressão, capacidade, intervalo ou método universal. Se houver alerta de pressão em funcionamento, pare o motor com segurança e siga o diagnóstico da aplicação.
+
+
+Admissão de ar
+- Fichas conceituais de caixa do filtro, duto, bocal de entrada, mangueira de vácuo, cabo do acelerador, ressonador e percurso do ar.
+- Sem diâmetros, ajustes ou calibração universal. Não altere entradas e não use a moto se o acelerador prender ou não retornar.
