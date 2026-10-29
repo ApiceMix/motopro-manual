@@ -160,3 +160,8 @@ Detalhes de lubrificação
 Admissão de ar
 - Fichas conceituais de caixa do filtro, duto, bocal de entrada, mangueira de vácuo, cabo do acelerador, ressonador e percurso do ar.
 - Sem diâmetros, ajustes ou calibração universal. Não altere entradas e não use a moto se o acelerador prender ou não retornar.
+
+
+Carburador e alimentação
+- Fichas conceituais de carburador, boia, agulha da boia, giclês/jatos, afogador/enriquecedor, circuitos de ar e combustível e diafragma.
+- Sem calibração, nível de boia ou ajustes universais. Combustível é inflamável; evite fontes de ignição e siga o manual da aplicação.
