@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v32';
+const CACHE_NAME = 'motopro-shell-v33';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=32',
-  './app.js?v=32',
+  './app-data.js?v=33',
+  './app.js?v=33',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -69,6 +69,13 @@ const ASSETS = [
   './sensor-temperatura-ar.png',
   './sensor-ckp.png',
   './sonda-oxigenio.png',
+  './bomba-combustivel.png',
+  './filtro-combustivel.png',
+  './regulador-pressao.png',
+  './atuador-marcha-lenta.png',
+  './sensor-inclinacao.png',
+  './sensor-neutro.png',
+  './interruptor-descanso.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',

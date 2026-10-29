@@ -95,3 +95,8 @@ Elétrica e partida
 Injeção e sensores
 - Fichas conceituais de ECU/ECM, MAP, TPS, temperatura do motor e do ar, CKP e sonda O₂.
 - Não há pinagens, faixas elétricas ou curvas universais. Identifique moto/ano/versão, condição de teste e manual aplicável antes de diagnosticar.
+
+
+Alimentação e comandos
+- Fichas conceituais de bomba e filtro de combustível, regulador de pressão, controle de marcha lenta, sensor de inclinação, neutro e descanso lateral.
+- Conteúdo introdutório, sem valores ou pinagens. Combustível pressurizado: risco de incêndio e lesão; não abrir ou testar sem procedimento e equipamento adequados. Não contornar intertravamentos de segurança.
