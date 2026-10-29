@@ -125,3 +125,8 @@ Comandos e instrumentação
 Iluminação e sinalização
 - Fichas conceituais de farol, lanterna/luz de freio, indicadores de direção, relé/controlador de pisca, interruptor de freio, luz da placa e refletor.
 - Sem pinagens ou regras universais de ligação. Confira aplicação e legislação vigente; mantenha todas as luzes e refletores em funcionamento.
+
+
+Ignição e centelha
+- Fichas conceituais de módulo, circuito primário, cabo de alta tensão, cachimbo, rotor/volante magnético, aterramento e caminho da centelha.
+- Vela, bobina e CKP têm fichas próprias em outras categorias. Sem pinagens ou valores genéricos; ignição pode produzir alta tensão, então não faça testes improvisados.
