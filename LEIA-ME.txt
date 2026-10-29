@@ -70,3 +70,8 @@ Continuação da enciclopédia mecânica
 - Sete fichas novas: corrente e tensor de comando, mola de válvula, balancim, filtro de óleo, pescador/tela de sucção e cárter/reservatório.
 - PNGs associados são esquemáticos; não indicam arquitetura, dimensão, sincronismo ou procedimento universal.
 - Para abrir e editar as imagens, consulte os PNGs do projeto; service-worker.js inclui as imagens para acesso offline.
+
+
+Admissão, alimentação, ignição e escape
+- Novas fichas ilustradas: filtro de ar, corpo de borboleta, coletor de admissão, injetor, vela, bobina e sistema de escape.
+- As imagens são didáticas e não informam valores, aplicação, pinagem ou regulagem. Combustível e alta tensão exigem cuidado e procedimento aplicável.

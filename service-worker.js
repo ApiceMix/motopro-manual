@@ -1,4 +1,4 @@
-const CACHE_NAME = 'motopro-shell-v25';
+const CACHE_NAME = 'motopro-shell-v26';
 const ASSETS = [
   './',
   './index.html',
@@ -34,6 +34,13 @@ const ASSETS = [
   './filtro-oleo.png',
   './pescador-oleo.png',
   './carter-oleo.png',
+  './filtro-ar.png',
+  './corpo-borboleta.png',
+  './coletor-admissao.png',
+  './injetor.png',
+  './vela-ignicao.png',
+  './bobina-ignicao.png',
+  './escape.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',
