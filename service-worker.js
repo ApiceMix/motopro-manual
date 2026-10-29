@@ -1,4 +1,4 @@
-const CACHE_NAME = 'motopro-shell-v11';
+const CACHE_NAME = 'motopro-shell-v12';
 const ASSETS = [
   './',
   './index.html',
