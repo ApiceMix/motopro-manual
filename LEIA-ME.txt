@@ -170,3 +170,8 @@ Carburador e alimentação
 Distribuição e válvulas
 - Fichas conceituais de guias da corrente, sede de válvula, travas/collets, prato da mola, descompressor (quando equipado), conceito de folga e relação de sincronismo.
 - Não usar ilustrações para sincronizar ou definir folgas. Molas armazenam energia; consulte manual, ferramenta e método específicos.
+
+
+Detalhes de carga e partida
+- Fichas conceituais de induzido, escovas, roda livre, engrenagens de partida, percurso de carga, terminais da bateria e retorno/aterramento.
+- Sem pinagens ou valores elétricos universais. Circuitos de partida conduzem corrente elevada; evite pontes improvisadas e consulte o manual.
