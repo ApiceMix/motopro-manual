@@ -180,3 +180,8 @@ Detalhes de carga e partida
 Detalhes de arrefecimento
 - Fichas conceituais sobre tampa/pressão, impulsor e vedação da bomba, passagens internas, abraçadeiras, drenagem e linhas do reservatório.
 - Não abrir o circuito quente ou pressurizado. Fluido, pressão, enchimento e sangria dependem do manual específico da motocicleta.
+
+
+Detalhes da transmissão final
+- Fichas conceituais sobre elos e elo de união, guia deslizante, suporte da coroa, amortecedores de torque, espaçadores e relação pinhão/coroa.
+- Sem medidas, folgas ou torques universais. Corrente em movimento e montagem incorreta oferecem risco; use o manual específico.

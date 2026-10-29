@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v49';
+const CACHE_NAME = 'motopro-shell-v50';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=49',
-  './app.js?v=49',
+  './app-data.js?v=50',
+  './app.js?v=50',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -189,6 +189,13 @@ const ASSETS = [
   './abraçadeiras-arrefecimento.png',
   './dreno-arrefecimento-conceito.png',
   './retorno-reservatorio-arrefecimento.png',
+  './elos-corrente-transmissao.png',
+  './elo-uniao-corrente.png',
+  './guia-deslizante-corrente.png',
+  './suporte-coroa-traseira.png',
+  './amortecedores-torque-cubo.png',
+  './espacadores-eixo-roda.png',
+  './relacao-transmissao-final.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',
