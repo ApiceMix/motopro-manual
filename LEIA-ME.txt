@@ -115,3 +115,8 @@ Arrefecimento
 Componentes internos do motor
 - Fichas conceituais de cárter, pino do pistão, rolamentos, retentor de válvula, junta do cabeçote, eixo balanceiro e galerias de óleo.
 - Sem dimensões, folgas, torque ou sequência de montagem. Abertura do motor exige limpeza, ferramentas e documentação técnica aplicável.
+
+
+Comandos e instrumentação
+- Fichas conceituais de chave de ignição, comandos do guidão, acelerador, comando de embreagem, painel, sensor de velocidade e buzina.
+- Sem pinagens, folgas ou ajustes genéricos; identifique a arquitetura e consulte o manual da motocicleta.
