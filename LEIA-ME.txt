@@ -80,3 +80,8 @@ Admissão, alimentação, ignição e escape
 Chassi e rodagem
 - Fichas ilustradas de quadro, suspensão dianteira, amortecedor traseiro, balança, direção/rolamentos, roda/cubo e pneu.
 - Diagramas conceituais sem medidas ou torques. Freios permanecem planejados para uma seção separada e de maior cautela.
+
+
+Freios — seção de referência e segurança crítica
+- Entraram fichas conceituais de disco, pinça, pastilhas, cilindro mestre/reservatório, mangueira/linha, tambor e sapatas.
+- Não há especificações de desgaste, torque, fluido, compatibilidade ou passos de reparo. Cada serviço requer manual da aplicação e profissional qualificado.
