@@ -205,3 +205,8 @@ Detalhes de vedação do motor
 Detalhes da seleção de marchas
 - Fichas conceituais de eixo, lingueta/catraca, mola de retorno, estrela indexadora, detente, articulação externa e princípio sequencial.
 - Sem padrão de marchas, ordem de montagem, folgas ou regulagens universais. O mecanismo e o procedimento dependem do câmbio específico.
+
+
+Detalhes da direção
+- Fichas conceituais sobre coluna/eixo, pistas e vedações dos rolamentos, batentes, suportes do guidão, roteamento de cabos e alinhamento.
+- Sem torques, ângulos ou ajustes universais. Direção é componente de segurança; danos ou montagem exigem manual e avaliação apropriados.

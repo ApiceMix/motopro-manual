@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v54';
+const CACHE_NAME = 'motopro-shell-v55';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=54',
-  './app.js?v=54',
+  './app-data.js?v=55',
+  './app.js?v=55',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -224,6 +224,13 @@ const ASSETS = [
   './detente-cambio.png',
   './articulacao-seletor-marchas.png',
   './sequencia-selecao-conceito.png',
+  './coluna-direcao-conceito.png',
+  './pistas-rolamentos-direcao.png',
+  './guarda-po-direcao.png',
+  './batentes-direcao.png',
+  './suportes-guidao-mesas.png',
+  './roteamento-cabos-direcao.png',
+  './alinhamento-mesas-direcao.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',
