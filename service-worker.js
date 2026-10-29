@@ -1,10 +1,10 @@
-const CACHE_NAME = 'motopro-shell-v42';
+const CACHE_NAME = 'motopro-shell-v43';
 const ASSETS = [
   './',
   './index.html',
   './styles.css',
-  './app-data.js?v=42',
-  './app.js?v=42',
+  './app-data.js?v=43',
+  './app.js?v=43',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
   './cabecote.svg',
@@ -140,6 +140,13 @@ const ASSETS = [
   './link-suspensao-traseira.png',
   './pivo-balanca-rolamento.png',
   './conjunto-garfo-suspensao.png',
+  './descanso-lateral-estrutura.png',
+  './cavalete-central-estrutura.png',
+  './pedaleira-motocicleta.png',
+  './pedal-freio-traseiro.png',
+  './protetor-corrente.png',
+  './coxins-fixacao-motor.png',
+  './subchassi-traseiro.png',
   './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',
