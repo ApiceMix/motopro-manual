@@ -90,3 +90,8 @@ Freios — seção de referência e segurança crítica
 Elétrica e partida
 - Fichas conceituais de bateria, estator/alternador, regulador-retificador, motor e relé de partida, fusível e chicote.
 - Sem valores elétricos, pinagens ou procedimentos de teste genéricos; confirme diagrama, condição de teste e especificação no manual da aplicação.
+
+
+Injeção e sensores
+- Fichas conceituais de ECU/ECM, MAP, TPS, temperatura do motor e do ar, CKP e sonda O₂.
+- Não há pinagens, faixas elétricas ou curvas universais. Identifique moto/ano/versão, condição de teste e manual aplicável antes de diagnosticar.
