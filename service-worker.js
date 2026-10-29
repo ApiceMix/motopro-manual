@@ -7,6 +7,7 @@ const ASSETS = [
   './app.js',
   './media-db.js',
   './piston-cylinder-conceitual.webp',
+  './motor-quatro-tempos-esquema.gif',
   './manifest.webmanifest',
   './icon-192.png',
   './icon-512.png'
