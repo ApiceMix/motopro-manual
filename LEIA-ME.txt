@@ -135,3 +135,8 @@ Ignição e centelha
 Embreagem e seleção interna
 - Fichas conceituais de cesto, discos de atrito e separadores, molas, cubo interno, garfos e tambor seletor.
 - Sem ordem de montagem, folgas, espessuras ou torques universais. Abertura do câmbio exige manual de serviço e ferramentas adequadas.
+
+
+Escape e emissões
+- Fichas conceituais de coletor, junta, catalisador, silenciador, protetor térmico, suportes, posição funcional da sonda O₂ e percurso dos gases.
+- Presença, ordem, posição e especificações variam por moto, ano e mercado. Não remover dispositivos de emissões; siga manual e regras vigentes.
